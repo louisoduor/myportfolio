@@ -21,7 +21,7 @@
 
 }
 h1{
-    font-size: 70px;
+   au font-size: 70px;
     color: #454042;
     text-align: center;
     font-weight: bold;
@@ -71,13 +71,13 @@ img{
     position: static;
 
 }
-/*.new{
+.skill-progress-cover{
    position: relative;
    width: 30%;
    border: 2px solid #FFCA06;
    border-radius: 10px;
     
-}*/
+}
 u{
     color: #fff;
 
@@ -133,6 +133,4 @@ h4{
  color: #FFCA06;
  padding: 5px;
  padding-bottom: 5px;
- border-color: #fff;
- cursor: pointer;
 }
